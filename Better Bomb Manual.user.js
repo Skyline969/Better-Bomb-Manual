@@ -31,11 +31,6 @@
     $(".bbm_right").css("z-index", "9999");
     $(".bbm_right").css("border-left", "1px solid #222");
     $(".bbm_right").css("box-shadow", "#222 0em 0em 0.6em");
-    $(".bbm_right").css({
-        "::-webkit-scrollbar": {
-            "width": "120px"
-        }
-    });
 
     $(".bbm_left").css("position", "fixed");
     $(".bbm_left").css("left", "0");
