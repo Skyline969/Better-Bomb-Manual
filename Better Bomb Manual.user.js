@@ -6,6 +6,7 @@
 // @author       Skyline969
 // @match        http://www.bombmanual.com/manual/1/*
 // @grant        none
+// @website      https://github.com/Skyline969/Better-Bomb-Manual/
 // ==/UserScript==
 
 (function() {
