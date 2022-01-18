@@ -5,6 +5,7 @@
 // @description  Improves the bomb manual for Keep Talking and Nobody Explodes by adding navigation elements for quickly jumping to specific modules.
 // @author       Skyline969
 // @match        http://www.bombmanual.com/manual/1/*
+// @match        https://www.bombmanual.com/web/index.html
 // @grant        none
 // @website      https://github.com/Skyline969/Better-Bomb-Manual/
 // ==/UserScript==
